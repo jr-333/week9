@@ -9,6 +9,8 @@ It was interesting to be able to set-up the honeypot and view all of the attacks
 Dionaea with HTTP
 
 ## Any issues you encountered: 
+<img width="611" alt="screen shot 2018-06-14 at 2 26 44 am" src="https://user-images.githubusercontent.com/38142630/41403856-c39a6f22-6f7a-11e8-93d5-6a1c4e9d572e.png">
+
 Ran into an issue were the script aborted because one of the repo's no longer existed. I had to browse the web for a fix as I did not know what script contained the line. Luckily I was able to find a fix. 
 
 ## A summary of the data collected: 
